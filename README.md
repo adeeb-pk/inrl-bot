@@ -58,7 +58,7 @@ Project created by <a href="https://github.com/inrlwabot">fasweeh</a> to make it
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://i.imgur.com/reMlxo.png)](http://wa.me/+917025099161)
+  [![join](https://whatsapp.com)](https://chat.whatsapp.com/BsR6V1ltRUdK5zV5azILU5)
   <div align="center">
        
   </div>
