@@ -14,7 +14,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/fasweeh-fazzz">fasweeh-fazzz</a> to make it public
+Project created by <a href="https://github.com/inrlwabot">fasweeh</a> to make it public
     <br>
        | © |
         Reserved |
@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/fasweeh-fazzz">fasweeh-fazzz</a> 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@fasweehFqz/Inrl-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fasweeh-fazzz/faz)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/inrlwabot/faz)
      </div>
 
   ### If there is an error deploying, try the following steps
@@ -41,9 +41,9 @@ Project created by <a href="https://github.com/fasweeh-fazzz">fasweeh-fazzz</a> 
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/fasweeh-fazzz/faz/fork)
+ Click [FORK](https://github.com/inrlwabot/faz/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/fasweeh-fazzz/faz copy this url and change fasweeh-fazzz with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/fasweeh-fazzz/faz copy this url and change inrlwabot with your github username and click go<br>
 
 ---
 
