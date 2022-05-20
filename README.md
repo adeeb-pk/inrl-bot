@@ -58,12 +58,12 @@ Project created by <a href="https://github.com/inrlwabot">fasweeh</a> to make it
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://imgur.com/AelfUJg.jpg)](https://chat.whatsapp.com/BsR6V1ltRUdK5zV5azILU5)
+  [![join](https://imgur.com/AelfUJ.jpg)](https://chat.whatsapp.com/BsR6V1ltRUdK5zV5azILU5)
   <div align="center">
    Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![click](https://imgur.com/AelfUJg.jpg)](https://instagram.com/mhd_fasweeh)
+  [!click👉 https://imgur.com/AelfUJg.jpg)](https://instagram.com/mhd_fasweeh)
   <div align="center">    
  
  </div>
