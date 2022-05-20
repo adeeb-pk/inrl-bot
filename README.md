@@ -47,7 +47,7 @@ Project created by <a href="https://github.com/inrlwabot">fasweeh</a> to make it
 
 ---
 
-<h3 align="center">Contact Me:</h3>
+<h3 align="center">instagram:</h3>
 <p align="center">
 <a href="https://instagram.com/mhd_fasweeh" target="blank"><img align="center" 
 </p>
@@ -58,10 +58,15 @@ Project created by <a href="https://github.com/inrlwabot">fasweeh</a> to make it
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://whatsapp.com)](https://chat.whatsapp.com/BsR6V1ltRUdK5zV5azILU5)
+  [![join](https://imgur.com/AelfUJg.jpg)](https://chat.whatsapp.com/BsR6V1ltRUdK5zV5azILU5)
   <div align="center">
-       
-  </div>
+   Click WA logo to Join Support Group 👇
+    <br>
+<br>
+  [![click](https://imgur.com/AelfUJg.jpg)](https://instagram.com/mhd_fasweeh)
+  <div align="center">    
+ 
+ </div>
   
 
 ### ⚠️ Warning! 
