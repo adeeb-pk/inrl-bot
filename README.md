@@ -63,31 +63,6 @@ Click WA logo to Join Support Group 👇
        
   </div>
   
-### The Hard Method
-```js
-GET QR
-$ apt update
-$ apt install nodejs --fix-missing
-$ pkg install git
-$ git clone https://github.com/fasweeh-faz/Inrl
-$ cd pikachu
-$ chmod +x *
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node qr.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/fasweeh-faz/Inrl
-$ cd inrl
-$ chmod +x *
-$ npm i
-$ node qr.js
-   // scan the qr using whatsapp web on your phone
-$ node bot.js
-```
-
 
 ### ⚠️ Warning! 
 ```
