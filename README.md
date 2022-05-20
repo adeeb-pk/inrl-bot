@@ -43,7 +43,7 @@ Project created by <a href="https://github.com/inrlwabot">fasweeh</a> to make it
   click to fork the git into your account
  Click [FORK](https://github.com/inrlwabot/faz/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/fasweeh-fazzz/faz copy this url and change inrlwabot with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/inrlwabot/faz copy this url and change inrlwabot with your github username and click go<br>
 
 ---
 
