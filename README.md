@@ -63,7 +63,7 @@ Click WA logo to Join Support Group 👇
    Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [!click👉 https://imgur.com/AelfUJg.jpg)](https://instagram.com/mhd_fasweeh)
+  [!click👉 https://instagram.com/mhd_fasweeh)
   <div align="center">    
  
  </div>
