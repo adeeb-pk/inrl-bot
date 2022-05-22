@@ -17,7 +17,7 @@ faz.addCommand({pattern: 'bot ?(.*)', fromMe: wk, dontAddCommandList: true}, (as
 
       const listButton = {
         buttonText: "SELECT",
-        description: "command's for inrl wa bot./nmention cheyyathe type chyyuka",
+        description: "command's for inrl wa bot.\nmention cheyyathe type chyyuka",
         sections: sections,
         listType: 1,
       }
