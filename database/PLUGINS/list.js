@@ -8,7 +8,7 @@ faz.addCommand({pattern: 'bot ?(.*)', fromMe: wk, dontAddCommandList: true}, (as
       const rows = [
         { title: ".list", rowId:"" },
         { title: ".owner", rowId:"" },
-        { title: "git", rowId:"" },
+        { title: ".git", rowId:"" },
         { title: "inrl", rowId:"" },
         { title: "fasweeh", rowId:"" },
       ]
