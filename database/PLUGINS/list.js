@@ -3,14 +3,14 @@ const {MessageType} = require('@adiwajshing/baileys');
 const Config = require('../../config');
 let wk = Config.WORKTYPE == 'public' ? false : true
 
-faz.addCommand({pattern: 'test ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+faz.addCommand({pattern: 'bot ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
 
       const rows = [
-        { title: "MENU", rowId:"" },
-        { title: "LIST", rowId:"" },
-        { title: "DOWNLOAD COMMANDS", rowId:"" },
-        { title: "MISC COMMANDS", rowId:"" },
-        { title: "HEROKU COMMANDS", rowId:"" },
+        { title: ".list", rowId:"" },
+        { title: ".owner", rowId:"" },
+        { title: ".git", rowId:"" },
+        { title: "inrl", rowId:"" },
+        { title: "fasweeh", rowId:"" },
       ]
 
       const sections = [{ title: "🎈ꪶ ɪɴʀʟʙᴏᴛ ꫂ🎈", rows: rows }]
