@@ -30,7 +30,7 @@ const SEWC = "```uploding link:``` "
 
             r_text[0] = "https://github.com/inrlwabot/faz";
 
-            r_text[1] = "https://github.com/inrlwabot";
+            r_text[1] = "https://github.com/inrlwabot/faz";
 
             var i = Math.floor(2*Math.random())
 
@@ -52,7 +52,7 @@ const SEWC = "```uploding link:``` "
 
             var r_text = new Array ();
 
-            r_text[0] = "https://github.com/inrlwabot";
+            r_text[0] = "https://github.com/inrlwabot/faz";
 
             r_text[1] = "https://github.com/inrlwabot/faz";
 
