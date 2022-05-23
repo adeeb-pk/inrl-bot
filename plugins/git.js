@@ -10,7 +10,7 @@ const SEWA = "link making chyyum. just for..."
 
 // Sentences
 
-const SEWB = "🎁 ```making link!``` 🎲"
+const SEWB = "🎁 ```making link!``` "
 
 // Results
 
