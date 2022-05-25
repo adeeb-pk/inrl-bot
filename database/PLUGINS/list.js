@@ -13,7 +13,7 @@ faz.addCommand({pattern: 'bot ?(.*)', fromMe: wk, dontAddCommandList: true}, (as
         { title: "fasweeh", rowId:"" },
       ]
 
-      const sections = [{ title: "🎈ꪶ ɪɴʀʟʙᴏᴛ ꫂ🎈", rows: rows }]
+      const sections = [{ title: "🎈inrlbot🎈", rows: rows }]
 
       const listButton = {
         buttonText: "SELECT",
