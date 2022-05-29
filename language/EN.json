@@ -201,7 +201,7 @@
             "RATING": "RATING",
             "UPLOADING_SONG": "✮⃝🎸ínrlвσt UPŁØλÐł₦G ¥ØUƦ $Ø₦G✮⃝🎧",
             "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtu.be/sHgP02gdneQ```",
+            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtu.be/c/vapova```",
             "DOWNLOADING_VIDEO": "*✮⃝🎞️ínrlвσt downloadιng yoυr vιdeo✮⃝🎥*",
             "UPLOADING_VIDEO": "*✮⃝🎞️ínrlвσt υploadιng yoυr vιdeo✮⃝🎥*",
             "LOADING": "*✮⃝🎞️ínrlвσt downloadιng yoυr vιdeo✮⃝🎥*",
@@ -217,7 +217,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Wait cheyy ippo taram✔️```"
+            "DOWNLOADING": "```ɪɴʀʟʙᴏᴛ ᴄʀᴇᴀᴛɪɴɢ ꜱᴛɪᴄᴋᴇʀ✔️```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -305,12 +305,12 @@
         "conventer": {
             "MP4TOAUDİO_DESC": "inrlbot Converts video to sound.",
             "MP4TOAUDİO_NEEDREPLY": "*You Must Reply to a Video!*",
-            "MP4TOAUDİO": "```Rυԃԋɾα Cσɳʋҽɾƚιɳɠ Vιԃҽσ ƚσ Aυԃισ..```",
+            "MP4TOAUDİO": "```Iηґℓ в๏ҭ Cσɳʋҽɾƚιɳɠ Vιԃҽσ ƚσ Aυԃισ..```",
             "ANİM_STİCK": "Converts animated stickers to video.",
-            "ANİMATE": "```Converting Animated Sticker To Video..```",
+            "ANİMATE": "```inrlbot Converting Animated Sticker To Video..```",
             "STİCKER_DESC": "Converts the sticker to a photo.",
             "STİCKER_NEEDREPLY": "*You Must Reply to a sticker!*",
-            "STİCKER": "```ʀᴜᴅʜʀᴀ ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴛʜᴇ sᴛɪᴄᴋᴇʀ ᴛᴏ ᴀ ᴘʜᴏᴛᴏ..```",
+            "STİCKER": "```ɪɴʀʟʙᴏᴛ ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴛʜᴇ sᴛɪᴄᴋᴇʀ ᴛᴏ ᴀ ᴘʜᴏᴛᴏ..```",
             "XMEDİA_DESC": "It is a plugin with more than 25 media tools.",
             "T_FALSE": "```❌ Incorrect Blend Effect Entered!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
@@ -414,13 +414,13 @@
             "STOP_SPAM": "✅ *Spam successfully stopped! Please wait a moment.*",
             "ST_DESC": "Convert the replied photo or video to sticker and send it as spam.",
             "ST_ST": "```Please Don't Reply to Stciker!```\n```Only Reply to Video or Photo!```",
-            "ST_NEED": "```You Must Reply To Any Video Or Photo!```",
+            "ST_NEED": "```You Must Reply To Any Video Or Photo! inrlbot🥲```",
             "AU_DESC": "Sends the replied audio as spam.",
-            "AU_REP": "```Please Only Reply To Audio File!```",
+            "AU_REP": "```Please Only Reply To Audio File! inrl🥲```",
             "FOTO_DESC": "Sends the replied photo as spam.",
             "FOTO_FOT": "```Please Reply To Any Picture!```",
             "VİD_DESC": "Sends the replied video as spam.",
-            "VİD_NEED": "```Please Reply to Any Video!```"
+            "VİD_NEED": "```Please Reply to Any Video! inrl🥲```"
         },
         "carbon": {
             "CARBON_DESC": "Uses carbon.sh for Text-to-Image",
