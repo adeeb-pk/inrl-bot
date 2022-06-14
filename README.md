@@ -35,7 +35,7 @@ Project created by <a href="https://github.com/inrlwabot">fasweeh</a> to make it
   
 1. If you dont have a github account create a account. Click [GIT HUB SIGN UP](https://github.com/signup/)
 
-2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@fasweehFqz/Inrl-QR)
+2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@fasweehFqz/Inrl-QR?outputonly=1&lite=1#index.js)
  
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
