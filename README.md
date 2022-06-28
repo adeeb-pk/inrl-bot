@@ -76,14 +76,3 @@ This is an open source project, you are responsible for everything you do.
 Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
-
-## Developer
-  <div align="center">
-    
-  [![`Ameer `](https://github.com/ameer-kallumthodi.png?size=200)](https://github.com/fasweh-faz)  
-Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
-  </div>
-    
-
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
