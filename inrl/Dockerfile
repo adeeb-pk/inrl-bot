@@ -1,4 +1,4 @@
-FROM quay.io/lyfe00011/test:beta
+FROM quay.io/inrl-official/inrl-bot:beta
 
 RUN git clone https://github.com/inrlwabot/faz /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
