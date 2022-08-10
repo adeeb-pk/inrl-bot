@@ -1,4 +1,4 @@
-FROM fusuf/whatsasena:latest
+FROM quay.io/lyfe00011/test:beta
 
 RUN git clone https://github.com/inrlwabot/faz /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
