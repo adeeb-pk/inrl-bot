@@ -1,4 +1,4 @@
-FROM quay.io/inrl-official/inrl-bot:beta
+FROM fusuf/whatsasena:latest
 
 RUN git clone https://github.com/inrlwabot/faz /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
