@@ -2,17 +2,6 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+INRL+WA+BOT+REPO.;CREATED+BY+FASWEEH+KT;THIS+IS+A+BGM+STIKER+BOT;WITH+MORE+FEATURES;THANKS+FOR+VISITING)](https://git.io/typing-svg)
 
- </a>
-</p>
-<div align="center">
-  <img border-radius: 10px src="https://imgur.com/AelfUJg.jpg" width="150" height="150"/>
-  <p align="center">
-<a href="#"><img title="Inrl" src="https://img.shields.io/badge/Inrl-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-  <p align="center">
-<a href="https://github.com/fasweeh-faz"><img title="Author" src="https://i.imgur.com/DyLAuEh.jpg/Author-fasweeh-fazzz-0/Inrl?color=blue&style=for-the-badge&logo=whatsapp"></a>
-</p>
-</div>
 <p align="center">
 Project created by <a href="https://github.com/inrlwabot">fasweeh</a> to make it public
     <br>
