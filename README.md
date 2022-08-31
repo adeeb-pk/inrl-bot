@@ -13,7 +13,7 @@ Project created by <a href="https://github.com/inrlwabot">fasweeh</a> to make it
 ## Setup
 <div align="center">
 
-  ### Simple Method
+  ### Ｉａｍ Ａｄｅｅｂ
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@fasweehFqz/Inrl-QR)
 
@@ -64,4 +64,8 @@ Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
 Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
+```
+###mrlinux
+```
+Hy
 ```
